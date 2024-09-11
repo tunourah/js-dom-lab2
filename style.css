@@ -1,8 +1,13 @@
 *{
     margin: 50px;
     padding: 0;
-    box-sizing: border-box;
-    text-align: center;
+ 
+    
+     
 }
 
- 
+ body {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+ }
